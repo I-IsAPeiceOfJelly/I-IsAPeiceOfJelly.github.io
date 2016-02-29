@@ -152,10 +152,27 @@ li.sfHover > a .sf-sub-indicator {
     padding-bottom: 100px;
 }
 
-.ititle img{
-width:10px;
-height: auto;
-float: right;
+#ititle img{
+margin-left: 100px;
 }
+
+#no{
+font-family: Comic Sans MS;
+}
+
+#ho{
+color: yellow;
+}
+
+#po{
+	color: green;
+	font-size: 1000%;
+}
+
+
+
+
+
+
 
 
