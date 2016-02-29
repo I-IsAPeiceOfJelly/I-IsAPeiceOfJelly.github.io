@@ -155,6 +155,7 @@ li.sfHover > a .sf-sub-indicator {
 .ititle img{
 width:10px;
 height: auto;
+float: right;
 }
 
 
