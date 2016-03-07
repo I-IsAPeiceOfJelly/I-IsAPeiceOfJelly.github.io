@@ -146,11 +146,6 @@ li.sfHover > a .sf-sub-indicator {
 	background-position: -10px 0;
 
 }
-#Hi
-{
-    padding-right: 280px;
-    padding-bottom: 100px;
-}
 
 #ititle img{
 margin-left: 100px;
@@ -178,6 +173,8 @@ color: yellow;
  background-color: #1664b9;
 }
 
-
+#Hi{
+	padding-top: 1000px;
+}
 
 
